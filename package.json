@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Randy1Burrell/ReactBoilerPlate/issues"
   },
-  "homepage": "https://github.com/Randy1Burrell/ReactBoilerPlate#readme"
+  "homepage": "https://github.com/Randy1Burrell/ReactBoilerPlate#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
