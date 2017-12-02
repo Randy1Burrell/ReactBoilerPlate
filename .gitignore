@@ -1,3 +1,4 @@
 # Ignores all the . files of git
 .*
+node_modules/*
 
