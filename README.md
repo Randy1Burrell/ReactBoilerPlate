@@ -18,7 +18,5 @@ npm start
 OR
 > To build your application type:
 ```
-A
-A
 webpack -d && webpack-dev-server --content-base src/ --inline --hot --port [PORT_ADDRESS]
 ```
