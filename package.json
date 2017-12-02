@@ -1,0 +1,19 @@
+{
+  "name": "reactboilerplate",
+  "version": "1.0.0",
+  "description": "Boiler code plate for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randy1Burrell/ReactBoilerPlate.git"
+  },
+  "author": "Randy Burrell",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Randy1Burrell/ReactBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/Randy1Burrell/ReactBoilerPlate#readme"
+}
