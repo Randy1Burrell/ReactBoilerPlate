@@ -4,7 +4,10 @@ Is standard code that would and can be used to create any react application
 ## Installation
 * Clone this repository
 * Navigate to the cloned repository directory
-* Type npm install to install the dependencies
+* To insall dependencies type
+    ```
+    npm install
+    ```
 
 ## Usage
 
@@ -15,5 +18,7 @@ npm start
 OR
 > To build your application type:
 ```
+A
+A
 webpack -d && webpack-dev-server --content-base src/ --inline --hot --port [PORT_ADDRESS]
 ```
