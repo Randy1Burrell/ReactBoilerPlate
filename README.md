@@ -15,7 +15,8 @@ Is standard code that would and can be used to create any react application
 ```
 npm start
 ```
-OR
+Your application will be served at localhost at port 1234
+###### OR
 > To build your application type:
 ```
 webpack -d && webpack-dev-server --content-base src/ --inline --hot --port [PORT_ADDRESS]
